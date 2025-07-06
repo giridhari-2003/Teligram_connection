@@ -1,0 +1,23 @@
+{
+  "name": "teligram_connection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giridhari-2003/Teligram_connection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giridhari-2003/Teligram_connection/issues"
+  },
+  "homepage": "https://github.com/giridhari-2003/Teligram_connection#readme",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
